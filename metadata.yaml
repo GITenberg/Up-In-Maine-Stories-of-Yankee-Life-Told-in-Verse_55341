@@ -1,16 +1,21 @@
 _repo: Up-In-Maine-Stories-of-Yankee-Life-Told-in-Verse_55341
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Littlefield, C. E.
     gutenberg_agent_id: '48289'
     url: http://www.gutenberg.org/2009/agents/48289
+covers:
+- cover_type: archival
+  image_path: 55341-h/images/cover.jpg
 creator:
   author:
     agent_name: Day, Holman F.
     gutenberg_agent_id: '48288'
     url: http://www.gutenberg.org/2009/agents/48288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55341#Up-In-Maine-Stories-of-Yankee-Life-Told-in-Verse
 gutenberg_issued: '2017-08-11'
 gutenberg_type: Text
 identifiers:
